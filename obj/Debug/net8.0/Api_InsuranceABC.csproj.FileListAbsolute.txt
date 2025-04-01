@@ -166,3 +166,4 @@ C:\Users\Ing. Jairo Mendoza\source\repos\Api_InsuranceABC\obj\Debug\net8.0\refin
 C:\Users\Ing. Jairo Mendoza\source\repos\Api_InsuranceABC\obj\Debug\net8.0\Api_InsuranceABC.pdb
 C:\Users\Ing. Jairo Mendoza\source\repos\Api_InsuranceABC\obj\Debug\net8.0\Api_InsuranceABC.genruntimeconfig.cache
 C:\Users\Ing. Jairo Mendoza\source\repos\Api_InsuranceABC\obj\Debug\net8.0\ref\Api_InsuranceABC.dll
+C:\Users\Ing. Jairo Mendoza\source\repos\Api_InsuranceABC\obj\Debug\net8.0\Api_InsuranceABC.sourcelink.json
